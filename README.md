@@ -2,7 +2,7 @@
 
 ![](readme_images/maze.gif)
 
-[Project landing page](link--)
+[Project landing page](https://samuelngundi.mystrikingly.com)
 
 ## Install
 

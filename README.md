@@ -49,7 +49,7 @@ Wolfeinstein3D is a game made in 1992, developped by id Software, made without a
 
 ## How to develop without a game engine
 
-To make the game, I used the C language because i already knew some of it, *(I could have tried the C++)*
+To make the game, I used the C language because i already knew some of it, *(I could have tried using C++)*
 and the most important thing here was to find **the thing** to be able to do a game without a game engine,
 this thing is the SDL library.
 
